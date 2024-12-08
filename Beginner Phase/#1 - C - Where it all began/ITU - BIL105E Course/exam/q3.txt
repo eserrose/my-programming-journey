@@ -1,0 +1,29 @@
+-Only character or integer can be used in switch statement
+False (enums, bytes, strings)
+
+-sizeof( ) can be used to get the size of a variable.
+True (size of variable and type)
+
+-continue keyword skip one iteration of loop
+True
+
+-arr[10] and *(arr+10) are equivalent thanks to pointer arithmetic
+True
+
+-Logical operators such as AND and OR support short circuit evaluation
+True (for C)
+
+-Switch statement executes only the matching block
+False (it keeps executing the next blocks until encountered a break)
+
+-The return type of malloc function is void.
+False (void pointer)
+
+-Functions can return more than one value at a time.
+False (not in C)
+
+-A function may have any number of return statements each returning different values.
+True (as long as all values have the same type)
+
+-The results of *ptr++ and ++*ptr are equivalent, where ptr is an integer pointer.
+-False (*ptr++ returns the original value, ++*ptr returns the incremented value. In the end, *ptr is incremented, but the returned "result" is different)

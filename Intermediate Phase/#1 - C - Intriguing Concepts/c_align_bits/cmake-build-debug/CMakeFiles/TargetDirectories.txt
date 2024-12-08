@@ -1,0 +1,3 @@
+D:/This Folder/Materials/Coding/OrtayaKarisik/c_align_bits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/This Folder/Materials/Coding/OrtayaKarisik/c_align_bits/cmake-build-debug/CMakeFiles/c_align_bits.dir
+D:/This Folder/Materials/Coding/OrtayaKarisik/c_align_bits/cmake-build-debug/CMakeFiles/edit_cache.dir

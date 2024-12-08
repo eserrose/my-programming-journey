@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/This Folder/Materials/Coding/OrtayaKarisik/StringSort/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

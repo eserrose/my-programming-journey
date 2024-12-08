@@ -1,0 +1,3 @@
+D:/This Folder/Materials/Coding/OrtayaKarisik/StringSort/cmake-build-debug/CMakeFiles/StringSort.dir
+D:/This Folder/Materials/Coding/OrtayaKarisik/StringSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/This Folder/Materials/Coding/OrtayaKarisik/StringSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

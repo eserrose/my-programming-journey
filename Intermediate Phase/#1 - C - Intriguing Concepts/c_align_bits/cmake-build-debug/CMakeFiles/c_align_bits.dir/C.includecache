@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/This Folder/Materials/Coding/OrtayaKarisik/c_align_bits/main.c
+stdio.h
+-
+inttypes.h
+-
+

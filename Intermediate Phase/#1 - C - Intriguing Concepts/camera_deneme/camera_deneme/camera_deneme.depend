@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559766084 source:d:\this folder\materials\coding\ccodes\camera_deneme\adafruit_vc0706.c
+	"Adafruit_VC0706.h"
+
+1559765855 d:\this folder\materials\coding\ccodes\camera_deneme\adafruit_vc0706.h
+	<stdbool.h>
+	<stdint.h>
+	<stdio.h>
+
+1559766193 source:d:\this folder\materials\coding\ccodes\camera_deneme\main.c
+	"Adafruit_VC0706.h"
+
